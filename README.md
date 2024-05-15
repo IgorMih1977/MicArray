@@ -1,0 +1,2 @@
+# MicArray
+Microphone array project
